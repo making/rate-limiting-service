@@ -60,6 +60,13 @@
             </snapshots>
         </repository>
         <repository>
+            <id>spring-libs-release-local</id>
+            <url>http://repo.spring.io/libs-release-local</url>
+            <snapshots>
+                <enabled>false</enabled>
+            </snapshots>
+        </repository>
+        <repository>
             <id>spring-milestones</id>
             <name>Spring Milestones</name>
             <url>https://repo.spring.io/milestone</url>
